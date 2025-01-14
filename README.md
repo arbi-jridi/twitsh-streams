@@ -1,6 +1,5 @@
-# Zero to Mastery: Complete Angular Developer in 2023
+# Twitsh a video stream web App built with Angular & firebase
 
-This repo contains the source files to accompany the Angular course found at [zerotomastery.io](https://zerotomastery.io/courses/learn-angular/).
 
 ## Development server
 
